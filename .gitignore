@@ -1,0 +1,6 @@
+# Mengabaikan file konfigurasi sensitif
+.env
+
+# Mengabaikan folder cache / data volume lokal Docker
+pgdata/
+.DS_Store
